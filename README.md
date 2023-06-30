@@ -9,5 +9,5 @@ In this file i have create many HTML pages ang important HTML tags whill using e
   <li>Simple Login Page</li>
   <li>Important HTML input tage</li>
   <li>Other using HTML tags</li>
-  <h1>h1 to h6 HTML tags</h1>
+ <li>h1 to h6 HTML tags</li>
 </ul>
